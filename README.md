@@ -1,1 +1,1 @@
-# deep-learning-guides
+# Deep Learning Guides
